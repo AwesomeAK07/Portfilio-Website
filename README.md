@@ -32,3 +32,4 @@ If you’d like to get in touch:
 
 ⭐ If you like this project, don’t forget to star the repository!
 <img width="1905" height="1075" alt="Screenshot 2025-08-06 023209" src="https://github.com/user-attachments/assets/4c824fe1-ca19-470c-890d-d52750de5426" />
+<img width="1904" height="1077" alt="Screenshot 2025-08-06 023232" src="https://github.com/user-attachments/assets/3f6abfbf-0696-4515-bfe3-a4ebaee83ee5" />
