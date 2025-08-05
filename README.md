@@ -31,3 +31,4 @@ If you’d like to get in touch:
 - GitHub: https://github.com/AwesomeAK07/
 
 ⭐ If you like this project, don’t forget to star the repository!
+<img width="1905" height="1075" alt="Screenshot 2025-08-06 023209" src="https://github.com/user-attachments/assets/4c824fe1-ca19-470c-890d-d52750de5426" />
