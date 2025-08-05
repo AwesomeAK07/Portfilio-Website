@@ -26,8 +26,8 @@ This portfolio serves as a central hub to present my skills, highlight my projec
 
 📧 Contact
 If you’d like to get in touch:
-- Email: YourEmail@example.com
-- LinkedIn: Your LinkedIn URL
-- GitHub: Your GitHub Profile URL
+- Email: akawesome555@example.com
+- LinkedIn: https://www.linkedin.com/in/awesomeak07/
+- GitHub: https://github.com/AwesomeAK07/
 
 ⭐ If you like this project, don’t forget to star the repository!
